@@ -22,3 +22,14 @@ Explicit, first-class gap markers (no silent data loss)
 Successful continuation after missing data
 
 These files are intended to be audited directly as independent evidence.
+
+
+Live Demonstration (Non-Authoritative)
+
+A live, browser-based demonstration of the deterministic event kernel is available here:
+https://deterministic-stream-demo1.pages.dev/
+
+This demo visualizes event capture, stalls, gaps, and recovery in real time.
+
+Important: The demo is illustrative only.
+The authoritative proof artifacts are the NDJSON files in this repository, which can be independently verified offline.
