@@ -24,6 +24,11 @@ Successful continuation after missing data
 
 These files are intended to be audited directly as independent evidence.
 
+Status
+These artifacts were produced by Kernel v1.1 and are preserved for historical and educational purposes.
+
+The current, authoritative verification model is Kernel v1.2 with capture-time hashing and the Guardian Auditor / Proof Lab. These files do not reflect the full v1.2 integrity guarantees.
+
 
 Live Demonstration (Non-Authoritative)
 
