@@ -22,7 +22,7 @@ Explicit, first-class gap markers (no silent data loss)
 
 Successful continuation after missing data
 
-These files are intended to be audited directly as independent evidence.
+These files were intended to be audited directly as independent evidence under the v1.1 model.
 
 Status
 These artifacts were produced by Kernel v1.1 and are preserved for historical and educational purposes.
